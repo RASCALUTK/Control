@@ -1,4 +1,8 @@
 # Control
+
+
+use the control.ino 
+so you need to download control.h and control.cpp
 project controller
 
 lcd16x2
